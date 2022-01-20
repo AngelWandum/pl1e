@@ -9,7 +9,7 @@ Be creative and use multiple parameters from the API documentation to earn a top
 ## Directions URL
 
 ```
-https://YourDirectionsApiURLGoesHere
+https://maps.googleapis.com/maps/api/directions/json?departure_time=now&avoid=highways&origin=11bisondrive&destination=1%20Canada%27s%20Wonderland%20Drive%2C%20Vaughan%2C%20ON%20L6A%201S6&waypoints=51%20Gerry%20Fitzgerald%20Dr%2C%20Toronto%2C%20ON%20M3J%203N4%7C670%20Applewood%20Crescent%2C%20Concord%2C%20ON%20L4K%204B4%7C2777%20Steeles%20Ave%20W%2C%20North%20York%2C%20ON%20M3J%203K5&key=AIzaSyCM-WWHYHIKY-do4kquMy9Z4wQaQx51AuE
 ```
 
 ## Next paste the full JSON response to this query here:
